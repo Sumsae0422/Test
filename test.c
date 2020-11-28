@@ -2,5 +2,5 @@
 
 void main(){
   printf("test");
-  printf("yongki");
+  printf("Hello yongki");
 }
